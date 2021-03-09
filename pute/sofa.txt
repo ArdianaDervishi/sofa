@@ -2,3 +2,4 @@ metal
 tre
 stoff
 saft
+fisk
